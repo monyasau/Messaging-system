@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color: transparent;
+}
+.inline {
+  display: inline-block;
+}
+.flex {
+  display: flex;
+}
+.first-sect-box {
+padding: 7px;
+border-radius: 15px;
+}
+.first-sect-box-child {
+padding: 50px;
+}
+.solid-border-grey {
+    border-style: solid;
+    border-color: #636363;
+    border-width: 1px;
+}
